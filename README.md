@@ -1,8 +1,11 @@
 ## LeanCloud PHP Library
 ===========================
+
 Forked from https://github.com/apotropaic/parse.com-php-library
 
-[LeanCloud](https://leancloud.cn)(原名AVOS Cloud) PHP SDK。
+__LeanCloud 已推出官方 [php sdk](https://github.com/leancloud/php-sdk)，
+我们推荐使用官方版本。__
+
 
 ## 配置
 =========================
